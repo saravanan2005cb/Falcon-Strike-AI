@@ -1,0 +1,9 @@
+[
+  {
+    "UserName": "intern_dev",
+    "RiskLevel": "HIGH",
+    "Findings": [
+      "User has full Administrator Access (Critical Security Risk)."
+    ]
+  }
+]

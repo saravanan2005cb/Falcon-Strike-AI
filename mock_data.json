@@ -1,0 +1,15 @@
+{
+  "Users": [
+    {
+      "UserName": "intern_dev",
+      "UserId": "AIDA123456789EXAMPLE",
+      "Arn": "arn:aws:iam::123456789012:user/intern_dev",
+      "AttachedPolicies": [
+        {
+          "PolicyName": "AdministratorAccess",
+          "PolicyArn": "arn:aws:iam::aws:policy/AdministratorAccess"
+        }
+      ]
+    }
+  ]
+}
